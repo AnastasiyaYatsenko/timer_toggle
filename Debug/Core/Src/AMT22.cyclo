@@ -1,0 +1,9 @@
+../Core/Inc/DWT_Delay.h:27:22:DWT_Delay_ms	2
+../Core/Src/AMT22.c:4:6:setCSLine	1
+../Core/Src/AMT22.c:11:9:spiWriteRead	1
+../Core/Src/AMT22.c:22:10:getPositionSPI	6
+../Core/Src/AMT22.c:55:6:setZeroSPI	1
+../Core/Src/AMT22.c:65:7:calculateAngle	3
+../Core/Src/AMT22.c:78:6:resetAMT22	1
+../Core/Src/AMT22.c:88:6:delay	1
+../Core/Src/AMT22.c:103:5:startDWT	1
